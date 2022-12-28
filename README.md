@@ -1,4 +1,4 @@
-# Hi, I'm Seoyun! 👋
+# 💙 Hi, I'm Seoyun!
 
 ```python
 class BackendEngineer:
