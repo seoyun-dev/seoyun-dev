@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Seoyun! 👋
 
-<!--
-**seoyun-dev/seoyun-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class BackendEngineer:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name  = "Seoyun Park"
+        self.role  = "Backend Engineer"
+        self.code  = ["Python", "Java", "HTML", "CSS"]
+        self.tools = ["Django", "Spring", "AWS"]
+        
+    def say_hi(self):
+        print("Thank you for dropping by my GitHub! Let's grow up together!")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## 🔗 Links to me
+[![Velog Badge](https://img.shields.io/badge/velog-brightgreen?style=flat&logo=velog&logoColor=white)](https://velog.io/@tiger)  <a href="mailto:dhn04100@gmail.com"><img src="https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white"></a> 
