@@ -7,7 +7,7 @@ class BackendEngineer:
         self.name  = "Seoyun Park"
         self.role  = "Backend Engineer"
         self.code  = ["Python", "Java", "HTML", "CSS"]
-        self.tools = ["Django", "Spring", "AWS"]
+        self.tools = ["Django", "Spring", "MySQL", "Trello", "Postman", "AWS"]
         
     def say_hi(self):
         print("Thank you for dropping by my GitHub! Let's grow up together!")
