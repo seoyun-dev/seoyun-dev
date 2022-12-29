@@ -18,4 +18,4 @@ me.say_hi()
 ```
 
 ## 🔗 Links to me
-[![Velog Badge](https://img.shields.io/badge/velog-brightgreen?style=flat&logo=velog&logoColor=white)](https://velog.io/@tiger)  <a href="mailto:dhn04100@gmail.com"><img src="https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white"></a> 
+[![Velog Badge](https://img.shields.io/badge/velog-brightgreen?style=flat&logo=velog&logoColor=white)](https://velog.io/@tiger)  <a href="mailto:dhn04100@gmail.com"><img src="https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&logoColor=white"></a> 
