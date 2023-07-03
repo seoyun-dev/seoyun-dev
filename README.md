@@ -1,19 +1,20 @@
 # 💙 Hi, I'm Seoyun!
 
 ```python
-class BackendEngineer:
+class AIlover:
 
     def __init__(self):
-        self.name  = "Seoyun Park"
-        self.role  = "Backend Engineer"
-        self.code  = ["Python", "Java", "HTML", "CSS"]
-        self.tools = ["Django", "Spring", "MySQL", "Git", "Trello", "Postman", "AWS"]
+        self.name    = "Seoyun Park"
+        self.role    = "AI Engineer"
+        self.code    = ["Python", "Java", "HTML", "CSS"]
+        self.library = ["Matplotlib", "Plotly", "Seaborn"]
+        self.tools   = ["Django", "MySQL", "Git", "Trello", "Postman", "AWS"]
         
     def say_hi(self):
         print("Thank you for dropping by my GitHub! Let's grow up together!")
 
 
-me = BackendEngineer()
+me = AIlover()
 me.say_hi()
 ```
 
