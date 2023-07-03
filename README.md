@@ -1,7 +1,7 @@
 # 💙 Hi, I'm Seoyun!
 
 ```python
-class AIlover:
+class AIlover:
 
     def __init__(self):
         self.name    = "Seoyun Park"
@@ -14,7 +14,7 @@ class AIlover:
         print("Thank you for dropping by my GitHub! Let's grow up together!")
 
 
-me = AIlover()
+me = AIlover()
 me.say_hi()
 ```
 
