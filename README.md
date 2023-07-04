@@ -6,8 +6,10 @@ class AIlover:
     def __init__(self):
         self.name     = "Seoyun Park"
         self.role     = "AI Engineer"
-        self.language = ["Python", "Java", "HTML", "CSS"]
-        self.tools    = ["MySQL", "Git", "Trello", "Django", "Postman", "AWS"]
+        self.language = ["Python", "Java", "SQL", "HTML", "CSS"]
+        self.aitools  = ["Matplotlib", "Plotly", "Numpy", "Pandas"]
+        self.db       = ["MySQL"]
+        self.etc      = ["Git", "Notion", "AWS", "Slack", "Postman", "Trello"]
         
     def say_hi(self):
         print("Thank you for dropping by my GitHub! Let's grow up together!")
