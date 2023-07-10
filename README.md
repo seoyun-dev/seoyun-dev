@@ -7,7 +7,7 @@ class AIlover:
         self.name     = "Seoyun Park"
         self.role     = "AI Engineer"
         self.language = ["Python", "Java", "SQL", "HTML", "CSS"]
-        self.aitools  = ["Matplotlib", "Plotly", "Numpy", "Pandas"]
+        self.aitools  = ["Pytorch", "Matplotlib", "Plotly", "Numpy", "Pandas"]
         self.db       = ["MySQL"]
         self.etc      = ["Git", "Notion", "AWS", "Slack", "Postman", "Trello"]
         
