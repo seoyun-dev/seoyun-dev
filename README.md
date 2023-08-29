@@ -20,4 +20,4 @@ me.say_hi()
 ```
 
 ## 🔗 Links to me
-[![Velog Badge](https://img.shields.io/badge/notion-white?style=flat&logo=Notion&logoColor=black)](https://seoyun.oopy.io/)  <a href="mailto:dhn04100@naver.com"><img src="https://img.shields.io/badge/naver-green?style=flat&logo=gmail&logoColor=white"></a> [![Velog Badge](https://img.shields.io/badge/Blog-white?style=flat&logo=Notion&logoColor=black)](https://seoyun.oopy.io/techblog) 
+[![Velog Badge](https://img.shields.io/badge/notion-white?style=flat&logo=Notion&logoColor=black)](https://seoyun.oopy.io/)  <a href="mailto:dhn04100@naver.com"><img src="https://img.shields.io/badge/naver-green?style=flat&logo=naver&logoColor=white"></a> [![Velog Badge](https://img.shields.io/badge/Blog-white?style=flat&logo=Notion&logoColor=black)](https://seoyun.oopy.io/techblog) 
