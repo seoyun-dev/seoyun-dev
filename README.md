@@ -21,4 +21,5 @@ me.say_hi()
 ```
 
 ## 🔗 Links to me
-<a href="mailto:dhn04100@naver.com"><img src="https://img.shields.io/badge/naver-green?style=flat&logo=naver&logoColor=white"></a> [![Badge](https://img.shields.io/badge/Blog-white?style=flat&logo=Notion&logoColor=black)](https://happy-tiger.notion.site/Seoyun-s-TechBlog-e49e630d8e004eb0978072c9383867eb?pvs=4](https://seoyunpark.notion.site/Seoyun-s-TechBlog-e49e630d8e004eb0978072c9383867eb?pvs=74) 
+<a href="mailto:dhn04100@naver.com"><img src="https://img.shields.io/badge/naver-green?style=flat&logo=naver&logoColor=white"></a> [![Badge](https://img.shields.io/badge/Blog-white?style=flat&logo=Notion&logoColor=black)](https://seoyunpark.notion.site/Seoyun-s-TechBlog-e49e630d8e004eb0978072c9383867eb?pvs=74)
+
